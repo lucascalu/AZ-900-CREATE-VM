@@ -4,7 +4,7 @@ Acesse https://portal.azure.com/#home
 
 
 Clique em criar recurso
-![alt text](./01.png)
+![alt text](01.PNG)
 
 Busque por máquina virtual e clique em criar
 ![alt text](./02.png)
