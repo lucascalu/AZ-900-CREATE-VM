@@ -17,3 +17,6 @@ Alimente as informações conforme orientado até chegar no campo revisar e cria
 
 Clique em criar
 ![alt text](05.PNG)
+
+
+# Parabéns você criou sua máquina virtual com sucesso!
